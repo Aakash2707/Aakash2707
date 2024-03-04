@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakash2707
-- 👀 I’m interested in game development using unity,Unreal,Blender 
-- 🌱 I’m currently learning Unreal 
+- 👀 I’m a game developer with experience in Unity,Unreal,Blender,UEFN.
+- 🌱 I’m currently learning Unity Programming and Vrese Programming.
 - 💞️ I’m looking to collaborate on game development
 - 📫 reach me through aakashpcmb@gmail.com
